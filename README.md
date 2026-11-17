@@ -17,8 +17,11 @@ This system helps users register files, search metadata, record queries and mana
 ## 3. Technology Stack
 
 - Java
+- Java Swing (GUI)
+- Java AWT
+- Java I/O
+- ArrayList and Collections
 - Object-Oriented Programming
-- Java File Handling
 - VS Code
 - GitHub
 
@@ -40,13 +43,13 @@ This system helps users register files, search metadata, record queries and mana
 Compile:
 
 ```bash
-javac QRS.java
+javac FileManagementSystem.java
 ```
 
 Execute:
 
 ```bash
-java QRS
+java FileManagementSystem
 ```
 
 ## 7. Future Enhancements
